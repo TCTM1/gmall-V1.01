@@ -1,10 +1,9 @@
 package com.gmall.user.controller;
 
-import com.gmall.user.pojo.UmsMemberReceiveAddress;
-import com.gmall.user.service.UmsMemberReceiveAddressService;
+import com.gmall.pojo.UmsMemberReceiveAddress;
+import com.gmall.service.UmsMemberReceiveAddressService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 

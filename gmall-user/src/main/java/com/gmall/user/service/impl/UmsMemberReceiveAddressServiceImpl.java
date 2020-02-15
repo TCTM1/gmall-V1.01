@@ -1,8 +1,8 @@
 package com.gmall.user.service.impl;
 
+import com.gmall.pojo.UmsMemberReceiveAddress;
+import com.gmall.service.UmsMemberReceiveAddressService;
 import com.gmall.user.mapper.UmsMemberReceiveAddressMapper;
-import com.gmall.user.pojo.UmsMemberReceiveAddress;
-import com.gmall.user.service.UmsMemberReceiveAddressService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.entity.Example;
